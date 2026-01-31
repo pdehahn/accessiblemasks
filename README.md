@@ -1,2 +1,0 @@
-# accessiblemasks
-AccessibleMasks.org site
