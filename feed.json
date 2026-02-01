@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "AccessibleMasks.org",
     "description": "",
-    "home_page_url": "https://github.com/pdehahn/accessiblemasks",
-    "feed_url": "https://github.com/pdehahn/accessiblemasks/feed.json",
+    "home_page_url": "https://pdehahn.github.io/accessiblemasks",
+    "feed_url": "https://pdehahn.github.io/accessiblemasks/feed.json",
     "user_comment": "",
     "author": {
         "name": "Patrick"
     },
     "items": [
         {
-            "id": "https://github.com/pdehahn/accessiblemasks/accessiblemasksorg.html",
-            "url": "https://github.com/pdehahn/accessiblemasks/accessiblemasksorg.html",
+            "id": "https://pdehahn.github.io/accessiblemasks/accessiblemasksorg.html",
+            "url": "https://pdehahn.github.io/accessiblemasks/accessiblemasksorg.html",
             "title": "AccessibleMasks.org",
             "summary": "AccessibleMasks.org is a passion project Jacob and Patrick deHahn started in 2020 to address the challenge solid face masks presented to deaf and hard-of-hearing community&hellip;",
             "content_html": "<p>AccessibleMasks.org is a passion project Jacob and Patrick deHahn started in 2020 to address the challenge solid face masks presented to deaf and hard-of-hearing community members, among other individuals, </p>\n<p> </p>\n<p>AccessibleMasks.org was an online directory showcasing multiple vendors that sold transparent face masks. </p>",
