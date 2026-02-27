@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AccessibleMasks.org</title>
-    <link href="https://pdehahn.github.io/accessiblemasks/feed.xml" rel="self" />
-    <link href="https://pdehahn.github.io/accessiblemasks" />
+    <link href="https://accessiblemasks.org/feed.xml" rel="self" />
+    <link href="https://accessiblemasks.org" />
     <updated>2026-01-29T20:28:17-05:00</updated>
     <author>
         <name>Patrick</name>
     </author>
-    <id>https://pdehahn.github.io/accessiblemasks</id>
+    <id>https://accessiblemasks.org</id>
 
     <entry>
         <title>AccessibleMasks.org</title>
         <author>
             <name>Patrick</name>
         </author>
-        <link href="https://pdehahn.github.io/accessiblemasks/accessiblemasksorg.html"/>
-        <id>https://pdehahn.github.io/accessiblemasks/accessiblemasksorg.html</id>
+        <link href="https://accessiblemasks.org/accessiblemasksorg.html"/>
+        <id>https://accessiblemasks.org/accessiblemasksorg.html</id>
 
         <updated>2026-01-29T20:28:17-05:00</updated>
             <summary type="html">
