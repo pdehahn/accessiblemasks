@@ -5,7 +5,4 @@ AccessibleMasks.org was an online resource built to address the challenge solid 
 This repository was created to host an archive of AccessibleMasks.org, which is no longer being updated and maintained. 
 
 The following tools were used to complete the archive: 
-Publii
-GitHub
-Porkbun
-GitHub Pages 
+Publii >> GitHub >> Porkbun >> GitHub Pages 
